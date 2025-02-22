@@ -85,6 +85,8 @@ We have conducted a detailed analysis of existing competitors, identifying their
 
 For complete details, please refer to the full [competitor analysis document](https://docs.google.com/document/d/1JQ43DYk2tqJV2SzkqE3gPqpevYzfSnRIZFyn1xPFuiY/edit?usp=sharing).
 
+## Product Flow & Design
+### [Design & Flow Document](https://docs.google.com/document/d/1z_np6rQlhq2anC-DlkkRfvZYNteJqm4r2u3T8Tqnots/edit?usp=sharing)
 ## Product Roadmap
 ### Development Timeline
 - **Phase 1**: MVP Development (3 Months)
