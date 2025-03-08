@@ -87,6 +87,35 @@ For complete details, please refer to the full [competitor analysis document](ht
 
 ## Product Flow & Design
 ### [Design & Flow Document](https://docs.google.com/document/d/1z_np6rQlhq2anC-DlkkRfvZYNteJqm4r2u3T8Tqnots/edit?usp=sharing)
+
+## Schemas
+### Users
+- user_id (integer, primary key)
+- email (character, unique, required)
+- username (character, unique, required)
+- password (character, required)
+- user_details (text)
+- sub_details (text)
+- profession (character)
+- days_left (integer)
+- image (text)
+- created_at (timestamp, default: current time)
+### Reports
+- report_id (integer, primary key)
+- user_id (integer, foreign key → Users)
+- feature (character, required)
+- subfeature (character)
+- date (timestamp, default: current time)
+- data (JSON)
+- url (character)
+### Scrapped_Content
+- id (integer, primary key)
+- url (text, required)
+- html_elements (text)
+- elements_properties (JSON)
+- css (text)
+- body_content (text)
+- created_at (timestamp, default: current time)
 ## Product Roadmap
 ### Development Timeline
 - **Phase 1**: MVP Development (3 Months)
