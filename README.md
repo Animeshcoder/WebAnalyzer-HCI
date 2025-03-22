@@ -63,8 +63,8 @@ The market for SEO and website optimization tools is dominated by expensive, com
 ## Features
 
 ### High-Level Features that Address the Prioritized Pain Points
-- **Color Grading** - Analyzes and scores color combinations for UI/UX impact.
-- **Content Style Grading** - Evaluates text readability and consistency.
+- **[Color Grading](https://docs.google.com/document/d/1Mkd1U1K7lBYEoU995Ed4cEFA7LqP5T_5qJLeiwScYi4/edit?tab=t.0#heading=h.ornw57tu9yyh)** - Analyzes and scores color combinations for UI/UX impact.
+- **[Content Style Grading](https://docs.google.com/document/d/17j9y3xZhKEqeJ61nm_P2E2rwe3C9SmRU_vbUhnG0jj4/edit?tab=t.0#heading=h.he8dh5mxb1p4)** - Evaluates text readability and consistency.
 - **Elements Layout Measurement** - Assesses structural consistency of webpages.
 - **[Web Page Performance](https://docs.google.com/document/d/1Io2me3HcvRHL5oxTL0sXNqaLUukXVYNnSOqa8i7IqsY/edit?tab=t.0#heading=h.dqxjiu6rb53a)** - Monitors and optimizes load speed and responsiveness.
 - **Web Page Quality** - Ensures adherence to best practices.
