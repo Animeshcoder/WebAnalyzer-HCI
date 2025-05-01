@@ -32,7 +32,7 @@
 ## Team
 | Name       | Role                                      |
 |------------|-------------------------------------------|
-| @Ankita    | Research & Documentation, Content Writing, Policy Writing |
+| @Ankita    | Research & Documentation, Content Writing, Feature Designing |
 | @Vidya     | Frontend Development                      |
 | @Animesh   | Backend Development, Security Analysis, Research |
 
